@@ -1,0 +1,14 @@
+c:\Users\lukas.schnell\Documents\programmering 1\interaktiv\interaktiv\bin\Debug\net8.0\interaktiv.exe
+c:\Users\lukas.schnell\Documents\programmering 1\interaktiv\interaktiv\bin\Debug\net8.0\interaktiv.deps.json
+c:\Users\lukas.schnell\Documents\programmering 1\interaktiv\interaktiv\bin\Debug\net8.0\interaktiv.runtimeconfig.json
+c:\Users\lukas.schnell\Documents\programmering 1\interaktiv\interaktiv\bin\Debug\net8.0\interaktiv.dll
+c:\Users\lukas.schnell\Documents\programmering 1\interaktiv\interaktiv\bin\Debug\net8.0\interaktiv.pdb
+c:\Users\lukas.schnell\Documents\programmering 1\interaktiv\interaktiv\obj\Debug\net8.0\interaktiv.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\lukas.schnell\Documents\programmering 1\interaktiv\interaktiv\obj\Debug\net8.0\interaktiv.AssemblyInfoInputs.cache
+c:\Users\lukas.schnell\Documents\programmering 1\interaktiv\interaktiv\obj\Debug\net8.0\interaktiv.AssemblyInfo.cs
+c:\Users\lukas.schnell\Documents\programmering 1\interaktiv\interaktiv\obj\Debug\net8.0\interaktiv.csproj.CoreCompileInputs.cache
+c:\Users\lukas.schnell\Documents\programmering 1\interaktiv\interaktiv\obj\Debug\net8.0\interaktiv.dll
+c:\Users\lukas.schnell\Documents\programmering 1\interaktiv\interaktiv\obj\Debug\net8.0\refint\interaktiv.dll
+c:\Users\lukas.schnell\Documents\programmering 1\interaktiv\interaktiv\obj\Debug\net8.0\interaktiv.pdb
+c:\Users\lukas.schnell\Documents\programmering 1\interaktiv\interaktiv\obj\Debug\net8.0\interaktiv.genruntimeconfig.cache
+c:\Users\lukas.schnell\Documents\programmering 1\interaktiv\interaktiv\obj\Debug\net8.0\ref\interaktiv.dll
